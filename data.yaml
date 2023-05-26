@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 31
+names: ['balKabak', 'bamya', 'bezelye', 'biber', 'brokoli', 'domates', 'enginar', 'havuc', 'ispanak', 'kBiber', 'kLahana', 'kabak', 'karnibahar', 'karnıbahar', 'lahana', 'limon', 'mantar', 'marul', 'maydanoz', 'misir', 'pancar', 'patates', 'patlican', 'pirasa', 'sBiber', 'salatalik', 'sarimsak', 'sogan', 'tFasulye', 'tSogan', 'turp']
+
+roboflow:
+  workspace: project
+  project: customdetection-2h2sl
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project/customdetection-2h2sl/dataset/1

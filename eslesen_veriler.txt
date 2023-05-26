@@ -1,0 +1,129 @@
+Ad: Güveç
+İçindekiler:  tuz ,  sarimsak ,  danaEti ,  salca ,  yag ,  havuc ,  domates ,  karabiber , sogan ,  yBiber ,  pulbiber ,  kBiber ,  kekik 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 5
+Mevcut Malzemeleriniz: sarimsak, domates, biber, kBiber, havuc
+---
+Ad: Şakşuka
+İçindekiler:  tuz ,  sarimsak ,  zeytinyagi ,  karabiber ,  domates , patlican ,  yBiber ,  limon ,  pulbiber ,  maydanoz,  kabak 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 5
+Mevcut Malzemeleriniz: sarimsak, domates, biber, patlican, limon
+---
+Ad: İmam Bayıldı
+İçindekiler:  tuz ,  sarimsak ,  salca ,  yag ,  sogan ,  domates ,  karabiber , patlican ,  maydanoz
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 4
+Mevcut Malzemeleriniz: sarimsak, domates, biber, patlican
+---
+Ad: Beyti Kebabı
+İçindekiler:  kimyon ,  sarimsak ,  tuz ,  tereyagi ,  lavas ,  yag ,  sogan ,  domates ,  biber ,  yBiber ,  kBiber,  pulbiber , kiyma ,  togurt 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 4
+Mevcut Malzemeleriniz: sarimsak, domates, biber, kBiber
+---
+Ad: Kısır
+İçindekiler:  salatalik ,  maydanoz ,  tuz ,  salca ,  yag ,  isot , bulgur ,  domates ,  karabiber ,  pulbiber,  limon ,  tNane ,  tSogan ,  kBiber 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 4
+Mevcut Malzemeleriniz: domates, biber, kBiber, limon
+---
+Ad: Mercimek Çorbası
+İçindekiler:  tuz ,  maydanoz ,  patates ,  salca ,  yag ,  sogan ,  havuc ,  karabiber ,  limon ,  pulbiber , mercimek 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 4
+Mevcut Malzemeleriniz: biber, havuc, patates, limon
+---
+Ad: Çiğ Köfte
+İçindekiler:  kimyon ,  sarimsak ,  kiyma ,  maydanoz ,  tuz ,  salca ,  isot , bulgur ,  sogan ,  karabiber ,  marul ,  tNane,  pulbiber 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 3
+Mevcut Malzemeleriniz: sarimsak, biber, marul
+---
+Ad: Lahmacun
+İçindekiler:  tuz ,  maydanoz ,  kiyma ,  sYag ,  salca ,  un ,  pBiber ,  sogan ,  biber ,  domates , kBiber 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 3
+Mevcut Malzemeleriniz: domates, biber, kBiber
+---
+Ad: Tantuni
+İçindekiler:  tuz ,  maydanoz ,  kimyon ,  tereyagi ,  lavas ,  yag , danaEti ,  domates ,  karabiber ,  yBiber ,  limon ,  pulbiber 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 3
+Mevcut Malzemeleriniz: domates, biber, limon
+---
+Ad: Hünkar Beğendi
+
+İçindekiler:  tereyagi ,  un , danaEti ,  tuz,  karabiber ,  süt ,  patlican ,  limon 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 3
+Mevcut Malzemeleriniz: biber, patlican, limon
+---
+Ad: Kuru Fasulye
+İçindekiler:  tuz ,  sarimsak ,  salca ,  sogan ,  karabiber, kFasulye 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 2
+Mevcut Malzemeleriniz: sarimsak, biber
+---
+Ad: Kuru Köfte
+
+İçindekiler:  kimyon ,  sarimsak ,  tuz ,  salca ,  sogan ,  karabiber ,  süt ,  pulbiber , kiyma ,  yumurta 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 2
+Mevcut Malzemeleriniz: sarimsak, biber
+---
+Ad: Ayran Aşı Çorbası
+İçindekiler:  tuz ,  sarimsak ,  un ,  nane ,  pulbiber, yogurt ,  yag
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 2
+Mevcut Malzemeleriniz: sarimsak, biber
+---
+Ad: İzmir Köfte
+İçindekiler:  kimyon ,  maydanoz ,  sarimsak ,  tuz ,  sogan ,  karabiber ,  süt ,  pulbiber , kiyma ,  zeytinyagi,  yumurta 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 2
+Mevcut Malzemeleriniz: sarimsak, biber
+---
+Ad: Etli Nohut
+İçindekiler:  kimyon ,  sarimsak ,  tuz ,  salca ,  danaEti ,  yag ,  sogan ,  karabiber ,  pulbiber , nohut 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 2
+Mevcut Malzemeleriniz: sarimsak, biber
+---
+Ad: Cacık
+İçindekiler:  salatalik ,  sarimsak ,  nane ,  zeytinyagi ,  limon tuz , yogurt 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 2
+Mevcut Malzemeleriniz: sarimsak, limon
+---
+Ad: Dolma
+İçindekiler:  tuz ,  maydanoz ,  kiyma ,  salca ,  yag ,  limon, biber ,  karabiber ,  tNane ,  pulbiber ,  kabak 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 2
+Mevcut Malzemeleriniz: biber, limon
+---
+Ad: İçli Köfte
+
+İçindekiler:  kimyon ,  maydanoz ,  kiyma ,  tuz ,  salca ,  yag , bulgur ,  sogan ,  karabiber ,  limon,  pulbiber 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 2
+Mevcut Malzemeleriniz: biber, limon
+---
+Ad: Etli Yaprak Sarma
+İçindekiler:  tuz ,  maydanoz ,  salca ,  sogan ,  limon,  karabiber ,  zetinYagi , kiyma,  pirinc 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 2
+Mevcut Malzemeleriniz: biber, limon
+---
+Ad: Mantı
+İçindekiler:  tuz ,  kiyma ,  tereyagi ,  salca ,  un ,  karabiber ,  pulBiber , sogan ,  yumurta ,  yogurt 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 1
+Mevcut Malzemeleriniz: biber
+---
+Ad: Kabak Tatlısı
+İçindekiler:  tarcin , balKabak ,  limon,  süt ,  irmik ,  seker 
+Ülke: Turkey
+Eşleşme Sayısı / Öneri Önceliği: 1
+Mevcut Malzemeleriniz: limon
+---
